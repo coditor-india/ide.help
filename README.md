@@ -2,14 +2,14 @@
 
 ## Settings
 
-To change language or theme go to settings
-
-![N|Solid](https://imgur.com/h6P3ilz.png)
+To change language, theme or font go to Settings
 > Select the language to complete the assignment.
-![N|Solid](https://i.imgur.com/H8KT4Xl.png)
+![N|Solid](https://imgur.com/h6P3ilz.png)
 > Themes can be changed for the editor.
-![N|Solid](https://i.imgur.com/dUeM3Cx.png)
+![N|Solid](https://i.imgur.com/H8KT4Xl.png)
 > Font size can be decreased or increased , as per requirement.
+![N|Solid](https://i.imgur.com/dUeM3Cx.png)
+
 
 ##  Folder and File
 - Go to the Explorer tab on the left side of the editor.
@@ -25,19 +25,29 @@ To change language or theme go to settings
 
 # Show Problem
 
+ Click on View Problem to revisit the description of the problem assigned 
+ 
 ![N|Solid](https://i.imgur.com/widNCRV.png)
 ![N|Solid](https://i.imgur.com/9DFzvVW.png)
 
 # Console/Run
 
+Click on Run to execute the program. Use console for I/O.
+
 ![N|Solid](https://i.imgur.com/HdCOdTF.png)
 ![N|Solid](https://i.imgur.com/icBPqdY.png)
 
 # Test
+
+Click on Test to run the program against the sample test cases assigned by the problem.
+
 ![N|Solid](https://i.imgur.com/kN1km3S.png)
 ![N|Solid](https://i.imgur.com/2BV9isX.png)
 
 # Submit
+
+Click on Submit to run the program against the actual test cases assigned against the problem.
+
 ![N|Solid](https://i.imgur.com/MeMkW4d.png)
 ![N|Solid](https://i.imgur.com/eQRS3DF.png)
 
