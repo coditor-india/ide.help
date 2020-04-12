@@ -44,9 +44,9 @@ Click on Run to execute the program. Use console for I/O.
 
 Click on Test to run the program against the sample test cases assigned by the problem.
 
-![N|Solid](https://i.imgur.com/kN1km3S.png)
+![N|Solid](https://i.imgur.com/28KGw0l.png)
 
-![N|Solid](https://i.imgur.com/2BV9isX.png)
+![N|Solid](https://i.imgur.com/pejeSi7.png)
 
 # Submit
 
