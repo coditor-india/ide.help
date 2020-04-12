@@ -27,15 +27,15 @@ To change language, theme or font go to Settings
 
  Click on View Problem to revisit the description of the problem assigned 
  
-![N|Solid](https://i.imgur.com/widNCRV.png)
-![N|Solid](https://i.imgur.com/9DFzvVW.png)
+![N|Solid](https://i.imgur.com/esimrvD.png)
+![N|Solid](https://i.imgur.com/ckETQXs.png)
 
 # Console/Run
 
 Click on Run to execute the program. Use console for I/O.
 
-![N|Solid](https://i.imgur.com/HdCOdTF.png)
-![N|Solid](https://i.imgur.com/icBPqdY.png)
+![N|Solid](https://i.imgur.com/7ozGDkj.png)
+![N|Solid](https://i.imgur.com/Rm0pfpD.png)
 
 # Test
 
