@@ -5,9 +5,11 @@
 To change language or theme go to settings
 
 ![N|Solid](https://imgur.com/h6P3ilz.png)
+> Select the language to complete the assignment.
 ![N|Solid](https://i.imgur.com/H8KT4Xl.png)
+> Themes can be changed for the editor.
 ![N|Solid](https://i.imgur.com/dUeM3Cx.png)
-
+> Font size can be decreased or increased , as per requirement.
 
 ##  Folder and File
 - Go to the Explorer tab on the left side of the editor.
