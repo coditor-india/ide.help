@@ -25,14 +25,17 @@ To change language or theme go to settings
 
 # Console/Run
 
+![N|Solid](https://i.imgur.com/HdCOdTF.png)
+![N|Solid](https://i.imgur.com/icBPqdY.png)
+
 # Test
 ![N|Solid](https://i.imgur.com/kN1km3S.png)
 ![N|Solid](https://i.imgur.com/2BV9isX.png)
 
-
-
-
 # Submit
+![N|Solid](https://i.imgur.com/MeMkW4d.png)
+![N|Solid](https://i.imgur.com/eQRS3DF.png)
+
 # Finish
 ![N|Solid](https://i.imgur.com/pHrp8O7.png)
 >Once the submissions are successful, the challenges can be ended 
