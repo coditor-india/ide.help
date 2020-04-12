@@ -4,21 +4,15 @@
 
 To change language or theme go to settings
 
-[![N|Solid](https://imgur.com/h6P3ilz.png)]
+![N|Solid](https://imgur.com/h6P3ilz.png)
 
 
 ##  Folder and File
 - Go to the Explorer tab on the left side of the editor.
 - Right click on root directory to add new folder.
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
 
-[![N|Solid](https://i.imgur.com/k6Yf2sL.png)]
+
+![N|Solid](https://i.imgur.com/k6Yf2sL.png)
 
 - Right click on the root directory or the new folder created to add a new file.
 - Name the file with extension,where you would be writing your code.  
@@ -28,8 +22,16 @@ To change language or theme go to settings
 
 
 # Show Problem
-# COnsole/Run
+
+# Console/Run
+
 # Test
+![N|Solid](https://i.imgur.com/kN1km3S.png)
+![N|Solid](https://i.imgur.com/2BV9isX.png)
+
+
+
+
 # Submit
 # Finish
 ![N|Solid](https://i.imgur.com/pHrp8O7.png)
