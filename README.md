@@ -54,7 +54,7 @@ Click on Submit to run the program against the actual test cases assigned agains
 
 ![N|Solid](https://i.imgur.com/gj5pyHd.png)
 
-![N|Solid](https://imgur.com/nF02AQd)
+![N|Solid](https://imgur.com/nF02AQd.png)
 
 # Finish
 ![N|Solid](https://i.imgur.com/pHrp8O7.png)
