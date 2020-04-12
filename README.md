@@ -16,6 +16,7 @@ To change language, theme or font go to Settings
 - Right click on root directory to add new folder.
 
 ![N|Solid](https://i.imgur.com/k6Yf2sL.png)
+
 ![N|Solid](https://i.imgur.com/8PsijQy.png)
 
 - Right click on the root directory or the new folder created to add a new file.
@@ -28,6 +29,7 @@ To change language, theme or font go to Settings
  Click on View Problem to revisit the description of the problem assigned 
  
 ![N|Solid](https://i.imgur.com/esimrvD.png)
+
 ![N|Solid](https://i.imgur.com/ckETQXs.png)
 
 # Console/Run
@@ -35,6 +37,7 @@ To change language, theme or font go to Settings
 Click on Run to execute the program. Use console for I/O.
 
 ![N|Solid](https://i.imgur.com/7ozGDkj.png)
+
 ![N|Solid](https://i.imgur.com/Rm0pfpD.png)
 
 # Test
@@ -42,6 +45,7 @@ Click on Run to execute the program. Use console for I/O.
 Click on Test to run the program against the sample test cases assigned by the problem.
 
 ![N|Solid](https://i.imgur.com/kN1km3S.png)
+
 ![N|Solid](https://i.imgur.com/2BV9isX.png)
 
 # Submit
@@ -49,6 +53,7 @@ Click on Test to run the program against the sample test cases assigned by the p
 Click on Submit to run the program against the actual test cases assigned against the problem.
 
 ![N|Solid](https://i.imgur.com/MeMkW4d.png)
+
 ![N|Solid](https://i.imgur.com/eQRS3DF.png)
 
 # Finish
