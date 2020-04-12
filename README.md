@@ -52,9 +52,9 @@ Click on Test to run the program against the sample test cases assigned by the p
 
 Click on Submit to run the program against the actual test cases assigned against the problem.
 
-![N|Solid](https://i.imgur.com/MeMkW4d.png)
+![N|Solid](https://i.imgur.com/gj5pyHd.png)
 
-![N|Solid](https://i.imgur.com/eQRS3DF.png)
+![N|Solid](https://imgur.com/nF02AQd)
 
 # Finish
 ![N|Solid](https://i.imgur.com/pHrp8O7.png)
